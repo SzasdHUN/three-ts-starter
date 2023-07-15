@@ -28,7 +28,7 @@ Comes already with the following features configured:
 
 ## Getting started
 
-1. Clone this repo using `git https://github.com/SzasdHUN/three-ts-starter.git`.
+1. Clone this repo using `git https://github.com/SzasdHUN/three-ts-starter.git`
 <br>
 2. Move to the appropriate directory: `cd three-ts-starter`
 <br />
