@@ -13,10 +13,10 @@ This is a quickstart for vanilla three.js projects.
 ## Features
 
 Comes already with the following features configured:
-[x] Shader Material
-[x] Orbit Controls
-[x] Dat.GUI
-[x] Component based structure
+- [x] Shader Material
+- [x] Orbit Controls
+- [x] Dat.GUI
+- [x] Component based structure
 
 ## Tech Stack
 
